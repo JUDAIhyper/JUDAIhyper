@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Where there's a will, there's a way. 👋
 ---
 ### I'm JUDAI
 
