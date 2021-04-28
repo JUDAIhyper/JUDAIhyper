@@ -2,13 +2,12 @@
 ---
 ### I'm JUDAI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUDAIhyper)](https://github.com/JUDAIhyper/github-readme-stats)
-
-- 计算机菜鸟一枚，即将入职.
-- 🌱 焦虑型选手，网络安全爱好者.
-- 💬 欢迎一起交流
-- ⭐ 以后会更新的比较频繁，若不嫌弃给个star
-- ⚡ 兴趣：数据分析📊，现在是go开发了
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUDAIhyper&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUDAIhyer&layout=compact" />
+</a>
 <!--
 **JUDAIhyper/JUDAIhyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
