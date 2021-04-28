@@ -1,7 +1,5 @@
 ### Hi there 👋
 ---
-<--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />-->
-
 ### I'm JUDAI
 
 - 计算机菜鸟一枚，即将入职.
