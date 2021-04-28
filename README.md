@@ -2,11 +2,11 @@
 ---
 ### I'm JUDAI
 
-<a href="https://github.com/JUDAIhyer/github-readme-stats">
+<a href="https://github.com/JUDAIhyper/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUDAIhyper&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/JUDAIhyer/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUDAIhyer&layout=compact" />
+<a href="https://github.com/JUDAIhyper/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUDAIhyper&layout=compact" />
 </a>
 <!--
 **JUDAIhyper/JUDAIhyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
