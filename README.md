@@ -3,7 +3,7 @@
 ### I'm JUDAI
 
 <a href="https://github.com/JUDAIhyper">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=JUDAIhyper&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=JUDAIhyper&show_icons=truet&include_all_commits=True&hide=contribs&show_icons=true&theme=radical" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/JUDAIhyper">
