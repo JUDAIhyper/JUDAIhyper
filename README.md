@@ -1,4 +1,4 @@
-###  Where there's a will, there's a way. 👋
+###  Where there's a will, there's a way.
 ---
 ### I'm JUDAI
 
