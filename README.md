@@ -1,7 +1,10 @@
 ###  Where there's a will, there's a way.
 ---
 ### I'm JUDAI 👋
-- ![JUDAI_plus](https://komarev.com/ghpvc/?username=JUDAIhyper) ![JUDAI_plus](https://visitor-badge.glitch.me/badge?page_id=JUDAIhyper.profile)
+- ![JUDAI_plus](https://komarev.com/ghpvc/?username=JUDAIhyper) 
+<a href="https://github.com/Charmve">
+<img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+</a>
 
 ## Tags
 
