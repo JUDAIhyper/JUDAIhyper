@@ -1,8 +1,8 @@
 ###  Where there's a will, there's a way.
 ---
 ### I'm JUDAI 👋
-- ![JUDAI_plus](https://komarev.com/ghpvc/?username=JUDAIhyper) 
-<a href="https://github.com/Charmve">
+![JUDAI_plus](https://komarev.com/ghpvc/?username=JUDAIhyper) 
+<a href="https://github.com/JUDAIhyper">
 <img src="https://badges.pufler.dev/visits/JUDAIhyper/JUDAIhyper?style=flat-square&color=black&logo=github">
 </a>
 
